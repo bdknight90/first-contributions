@@ -6374,7 +6374,6 @@
 - [Thomas Christlieb](https://github.com/ThomasChr)
 - [PvcPre](https://github.com/pvcpre)
 - [divijsingh](https://github.com/divijsingh)
-- [Benjamin David Knight] (https://github.com/bdknight90)
 - [nerfox22](https://github.com/nerfox22)
 - [Juli Cheng](https://github.com/julicheng)
 - [odzeno](https://github.com/odzeno)
